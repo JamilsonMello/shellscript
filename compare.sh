@@ -1,9 +1,10 @@
 #!/bin/bash
 
--eq Equal
--ne Different
--gt Bigger
--lt Less
+-eq equal
+-ne different or not equal
+-ge greater or equal
+-gt greater than
+-lt less than
 -o  or
 -d  is a directory
 -e  if exists
